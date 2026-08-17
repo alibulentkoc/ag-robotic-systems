@@ -1,5 +1,5 @@
 site_name: Agricultural Robotic Systems
-site_description: A curriculum in Robotics, Computer Vision, Mechatronics, and Digital Twins, built around a greenhouse harvesting robot.
+site_description: A curriculum in Agricultural Robotic Systems (physical AI), Robotics Computer Vision, Mechatronics, and Digital Twins, built around a greenhouse harvesting robot.
 docs_dir: site_src
 
 # The published student site is generated from site_src/ (presentation layer).
