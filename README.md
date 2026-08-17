@@ -1,6 +1,6 @@
 <div align="center">
 
-# Physical AI Curriculum
+# Agricultural Robotic Systems
 
 **A comprehensive, open curriculum in Physical AI, Robotics, Computer Vision, Mechatronics, and Digital Twins — built around a single running system: a greenhouse harvesting robot.**
 
