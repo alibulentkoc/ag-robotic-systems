@@ -133,4 +133,9 @@ Contributions are welcome — content, code, diagrams, fixes, and ideas. Please 
 
 ## License
 
-Released under the [MIT License](LICENSE). You are free to use, adapt, and share this material; attribution is appreciated.
+This project is dual-licensed:
+
+- **Software** — all source code, Jupyter notebooks, scripts, and build tooling — is licensed under the [MIT License](LICENSE).
+- **Educational content** — all lesson text, explanations, diagrams, figures, quizzes, and answer keys — is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-CONTENT).
+
+In short: reuse the code freely under MIT, and reuse or adapt the teaching materials under CC BY 4.0 as long as you give attribution.
