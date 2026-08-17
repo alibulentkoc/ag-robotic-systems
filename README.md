@@ -2,7 +2,7 @@
 
 # Agricultural Robotic Systems
 
-**A comprehensive, open curriculum in Agricultural Robotics Systems (the embodied 'physical AI' side of intelligent machines), Computer Vision, Mechatronics, and Digital Twins which is built around a single running system: a greenhouse harvesting robot.**
+**A comprehensive, open curriculum in Agricultural Robotics Systems (the embodied 'physical AI' side of intelligent machines), Computer Vision, Mechatronics, and Digital Twins which is built around a single running system: a greenhouse harvesting robot. Throughout this curriculum, "physical AI" and "robotics" are used interchangeably here -both mean intelligent machines that sense and act in the physical world. **
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
