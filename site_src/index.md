@@ -1,6 +1,8 @@
-# Physical AI Curriculum
+# Agricultural Robotic Systems Curriculum
 
-Welcome. This is the student-facing site for a curriculum in **Physical AI, Robotics, Computer Vision, Mechatronics, and Digital Twins** — built around a single running system, a **Greenhouse Harvesting Robot**.
+Welcome. This is the student-facing site for a curriculum in Agricultural Robotic Systems ** Robotics, Computer Vision, Mechatronics, and Digital Twins** — built around a single running system, a **Greenhouse Harvesting Robot**.
+
+Throughout this curriculum, "physical AI" and "robotics" are used interchangeably here - both mean intelligent machines that sense and act in the physical world, like this agricultural harvesting robot.
 
 Every topic is taught in five layers: physical intuition → visual understanding → mathematical formulation → computational implementation → system integration. You'll understand not just *how* the equations work, but *why* they matter in a real robot.
 
